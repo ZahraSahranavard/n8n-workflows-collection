@@ -1,8 +1,8 @@
 # 📌 Medical Assistant Telegram Bot
 
 **Medical Assistant** is a Telegram bot that uses **n8n** and **LLM (Large Language Model)** to answer general medical questions. This project demonstrates **Automation + AI Agent Integration** and can be used as a portfolio piece on your resume.
+<br><br>
 
----
 
 ## ⚡ Features
 
@@ -12,7 +12,7 @@
 - **Memory Buffer** keeps the context of recent messages  
 - Extensible workflow for adding more Nodes and features  
 
----
+<br>
 
 ## 🛠 Technologies
 
@@ -21,7 +21,7 @@
 - Telegram Bot API  
 - LangChain Node in n8n for AI model management  
 
----
+<br>
 
 ## 🚀 How to Run
 
@@ -49,7 +49,7 @@ cd AIAgent_n8n_template
 5. **Activate the Workflow:**  
    - Turn on the workflow, and the bot is ready to respond to messages  
 
----
+<br>
 
 ## 🔐 Security
 
@@ -57,7 +57,7 @@ cd AIAgent_n8n_template
 - No real API keys, webhook IDs, or credentials are included  
 - You must add your own credentials before running  
 
----
+<br>
 
 ## 📁 Node Structure
 
