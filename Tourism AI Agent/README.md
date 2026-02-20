@@ -2,7 +2,7 @@
 
 This n8n workflow is a **Tourism Assistant** bot that uses **AI Agent + Memory + Tools** to answer questions related to travel, cities, and tourism activities. It demonstrates **Automation + AI Integration** and can be used as a portfolio project.
 
----
+
 
 ## ⚡ Features
 
@@ -13,7 +13,7 @@ This n8n workflow is a **Tourism Assistant** bot that uses **AI Agent + Memory +
 - Can perform calculations using **Calculator** tool  
 - Extensible workflow for adding more tools and capabilities  
 
----
+
 
 ## 🛠 Technologies
 
@@ -21,7 +21,6 @@ This n8n workflow is a **Tourism Assistant** bot that uses **AI Agent + Memory +
 - [Google Gemini (PaLM)](https://developers.generativeai.google/) – LLM Integration  
 - LangChain Nodes for AI Agent, Memory, and Tools  
 
----
 
 ## 🚀 How to Run
 
@@ -37,7 +36,7 @@ This n8n workflow is a **Tourism Assistant** bot that uses **AI Agent + Memory +
 3. **Activate the Workflow:**  
    - Turn on the workflow and start chatting with the bot  
 
----
+
 
 ## 🔐 Security
 
@@ -45,7 +44,7 @@ This n8n workflow is a **Tourism Assistant** bot that uses **AI Agent + Memory +
 - No real API keys, webhook IDs, or credentials are included  
 - You must add your own credentials before running  
 
----
+
 
 ## 📁 Node Structure
 
