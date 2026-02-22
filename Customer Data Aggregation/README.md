@@ -1,4 +1,4 @@
-# 👥 Customer Data Aggregation
+# 📌 Customer Data Aggregation
 
 This n8n workflow demonstrates customer data processing using **Google Sheets + Data Transformation + Aggregation**.
 
@@ -17,9 +17,9 @@ It retrieves customer records from Google Sheets, formats selected fields, and a
 
 
 
-## 🛠 Technologies Used
+## 🛠 Technologies
 
-- [n8n](https://n8n.io/) – Workflow Automation Platform
+- [n8n](https://n8n.io/) – Workflow Automation
 - Google Sheets API
 - Built-in n8n Nodes:
   - Manual Trigger
