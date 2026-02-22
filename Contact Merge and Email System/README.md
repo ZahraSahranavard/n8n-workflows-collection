@@ -1,4 +1,4 @@
-# 🔀 Contact Merge and Email System
+# 📌 Contact Merge and Email System
 
 This workflow demonstrates  data processing in n8n using:
 
@@ -24,9 +24,9 @@ This is a practical example of multi-source data normalization and automation.
 
 
 
-## 🛠 Technologies Used
+## 🛠 Technologies
 
-- n8n (Workflow Automation Platform)
+- n8n – Workflow Automation
 - Google Sheets API
 - Gmail API
 - Built-in n8n Nodes:
